@@ -1,0 +1,8 @@
+F12     Jump to editor window
+ctrl+m  maximize and un-maximize window (works for other windows in eclipse)
+ctrl+e   list all open editors (arrow down and select one)
+ctrl+f6  similar to ctrl+e   but switches window on release of ctrl key
+alt+right arrow   alt+left arrow   switches between 2 files
+alt+-   editor window option menu
+ctrl+f10 then n   show and hide line number in editor
+ctrl+shift+f  format 

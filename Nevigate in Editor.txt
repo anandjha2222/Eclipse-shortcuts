@@ -1,0 +1,13 @@
+home/end  jump to beginning/end of indentation. press home twice to jump to beginning of line
+ctrl+home/end  beginning/end of file
+ctrl+right arrow/left arrow jump one word right/left
+ctrl+shift+arrow down/up  navigate member to member in source file
+ctrl+l  jump to line number
+ctrl+f10 and then n   show/hide line number
+ctrl+q  jump to last edited location
+ctrl+.  ctrl+,   move from one problem to next
+ctrl+shift+p  to find closing/opening brace of the opening brace, place the cursor at opening/closing bract
+ctrl+arrow down/up scroll editor without changing cursor position
+alr+right arrow/left arrow  going back and forth while editing 2 files
+alt+shift+w  for show in package explorer
+f3  see function definition very quickly 

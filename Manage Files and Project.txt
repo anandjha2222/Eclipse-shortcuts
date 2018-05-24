@@ -1,0 +1,15 @@
+
+ctrl+n create new project using wizard
+alt+f and then .   NOTE : make sure cursor is not in the editor
+ctrl+shift+r   find any resource in your workspace
+ctrl+shift+t    find any class file (even in jar also)
+				supposed you open "java.lang.String" class then find "Link with Editor" button and click it
+alt+enter    show and access file properties
+ctrl+s   save current file
+ctrl+shift+s    save all files	
+ctrl+w   close current file
+ctrl+shift+w   close all open files
+ctrl+t    toggling between supettype and subtype  (one window will open which will list out type hierarchy)
+ctrl+shift+g    searches the workspace for references to the selected methods or veriables
+ctrl+shift+l   view listing of all eclipse keyboard shortcuts
+			
